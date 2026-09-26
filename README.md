@@ -53,7 +53,7 @@
 
 ## 💼 Experience
 
-**Web Application Engineer / SES — 約3年
+**Web Application Engineer / SES — 約3年**
 
 * Java / Spring Bootを中心としたWebシステム開発
 * 基本設計・詳細設計・製造・単体試験・結合試験・受入試験
