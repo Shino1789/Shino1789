@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shino1789
 
-**Java / Spring Boot を中心にWebアプリケーション開発を行うエンジニアです。**
-
-実務では、Javaを用いたWebシステムの設計・開発・テストを約2.5年経験しています。
+実務では、主にJavaを用いたWebシステムの設計・開発・テストを担当しています。
 個人開発では **Next.js / TypeScript / AWS / Docker / Terraform / GitHub Actions** など、Web系開発に必要な技術領域を実践的に学んでいます。
 
 ---
@@ -44,8 +42,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 
-**AWS:** VPC / ECS・Fargate / RDS / S3 / ECR / ALB / Secrets Manager / CloudWatch / Route 53 / ACM
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
@@ -57,10 +53,10 @@
 
 ## 💼 Experience
 
-**Web Application Engineer / SES — 2.5 years**
+**Web Application Engineer / SES — 約3年
 
 * Java / Spring Bootを中心としたWebシステム開発
-* 詳細設計・基本設計・製造・単体試験・結合試験・受入試験
+* 基本設計・詳細設計・製造・単体試験・結合試験・受入試験
 * 既存システムの調査・改修
 * Seasar2 → Spring Bootへのシステム刷新
 * 技術選定・移行方針策定・開発環境構築
@@ -73,7 +69,7 @@
 
 ---
 
-## 🚗 Personal Development
+## 🚀 Personal Development
 
 ### [Pitvia](https://github.com/Shino1789/pitvia)
 
@@ -93,16 +89,6 @@ AWS・Docker・Terraform・GitHub Actionsを利用して設計・開発・デプ
 **Development**
 
 `Docker Compose` · `GitHub Actions` · `OpenAPI` · `Bruno` · `Figma`
-
----
-
-## 🎯 Currently Learning
-
-* React / Next.js / TypeScript
-* AWS / Docker / Terraform
-* Webアプリケーション設計
-* CI/CD
-* テスト・品質改善
 
 ---
 
